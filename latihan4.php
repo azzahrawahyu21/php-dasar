@@ -13,14 +13,12 @@
 * <=>   Spaceship                       $x <=> $y
 */
 
-/*
 $t = date("H"); // mendapatkan jam dengan format 1-24
 echo "if";
 if ($t < 16) {
     echo "Selamat siang!";
 }
-*/
-/*
+
 $t = date("H"); // mendapatkan jam dengan format 1-24
 echo "<br> If dan Else <br>";
 if ($t < 20) {
@@ -28,7 +26,7 @@ if ($t < 20) {
 } else {
     echo "Selamat malam!";
 }
-*/
+
 $t = date("H"); // mendapatkan jam dengan format 1-24
 echo "<br> Nested If <br>";
 if ($t < 20) {
